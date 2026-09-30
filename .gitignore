@@ -1,0 +1,9 @@
+# IDE & OS files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+*.pdb
